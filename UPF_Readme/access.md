@@ -1,2 +1,2 @@
 
-Access this app at [https://syntex.sonicthings.org]()
+Access this app at https://github.com/lonce/Syn7_RAVE
