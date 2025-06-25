@@ -22,11 +22,11 @@
 								"filename" : "01.ClapSlow.wav",
 								"filekind" : "audiofile",
 								"id" : "u548009753",
-								"selection" : [ 0.0, 1.0 ],
+								"selection" : [ 0.41267787839586, 0.646830530401035 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1,
-									"pitchshift" : 1.0,
+									"pitchshift" : 0.600000023841858,
 									"speed" : 1.0,
 									"timestretch" : 1
 								}
@@ -56,8 +56,8 @@
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1,
-									"pitchshift" : 0.0,
-									"speed" : 2.859999895095825,
+									"pitchshift" : 1.0,
+									"speed" : 1.0,
 									"timestretch" : 1
 								}
 
@@ -72,7 +72,7 @@
 								"content_state" : 								{
 									"loop" : 1,
 									"timestretch" : 1,
-									"pitchshift" : 0.600000023841858,
+									"pitchshift" : 1.0,
 									"speed" : 1.0
 								}
 
@@ -86,7 +86,9 @@
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1,
-									"timestretch" : 1
+									"timestretch" : 1,
+									"pitchshift" : 1.0,
+									"speed" : 1.0
 								}
 
 							}
@@ -99,7 +101,9 @@
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1,
-									"timestretch" : 1
+									"timestretch" : 1,
+									"pitchshift" : 1.0,
+									"speed" : 1.0
 								}
 
 							}
@@ -108,7 +112,7 @@
 								"filename" : "07.WindSlow.wav",
 								"filekind" : "audiofile",
 								"id" : "u860009783",
-								"selection" : [ 0.0, 1.0 ],
+								"selection" : [ 0.357050452781371, 0.761966364812419 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1,
@@ -142,7 +146,9 @@
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1,
-									"timestretch" : 1
+									"timestretch" : 1,
+									"pitchshift" : 1.0,
+									"speed" : 1.0
 								}
 
 							}
@@ -692,6 +698,10 @@
 , 						{
 							"number" : 13,
 							"data" : [ 6, "obj-8", "gain~", "list", 100, 10.0, 6, "obj-17", "gain~", "list", 97, 10.0, 6, "obj-16", "number~", "list", 0.0, 0.0, 5, "obj-34", "number", "float", -1.0, 5, "obj-38", "number", "float", 0.439999997615814, 5, "obj-43", "number", "float", 0.20100000500679, 5, "obj-48", "number", "float", 0.430000007152557, 5, "obj-65", "number", "float", 0.589999973773956, 5, "obj-15", "toggle", "int", 1, 5, "obj-31", "tab", "int", 4, 5, "obj-9", "number", "float", 1.0, 5, "obj-23", "number", "float", 0.600000023841858, 6, "obj-55", "gain~", "list", 0, 10.0, 5, "obj-64", "playlist~", "preset_count", 9, 7, "obj-64", "playlist~", "preset_clipstate", 1, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 1, "absolutepath", "01.ClapSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 1, "filename", "01.ClapSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 1, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 1, "selection", 0.41267787839586, 0.646830530401035, 7, "obj-64", "playlist~", "preset_clipstate", 1, "id", "u548009753", 7, "obj-64", "playlist~", "preset_content", 1, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 2, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 2, "absolutepath", "02.ClapFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 2, "filename", "02.ClapFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 2, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 2, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 2, "id", "u419009758", 7, "obj-64", "playlist~", "preset_content", 2, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 3, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 3, "absolutepath", "03.BugsSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 3, "filename", "03.BugsSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 3, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 3, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 3, "id", "u183009763", 7, "obj-64", "playlist~", "preset_content", 3, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 4, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 4, "absolutepath", "04.BugsFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 4, "filename", "04.BugsFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 4, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 4, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 4, "id", "u699009768", 7, "obj-64", "playlist~", "preset_content", 4, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 5, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 5, "absolutepath", "05.PistonsSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 5, "filename", "05.PistonsSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 5, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 5, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 5, "id", "u651009773", 7, "obj-64", "playlist~", "preset_content", 5, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 6, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 6, "absolutepath", "06.PistonsFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 6, "filename", "06.PistonsFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 6, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 6, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 6, "id", "u203009778", 7, "obj-64", "playlist~", "preset_content", 6, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 7, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 7, "absolutepath", "07.WindSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 7, "filename", "07.WindSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 7, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 7, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 7, "id", "u860009783", 7, "obj-64", "playlist~", "preset_content", 7, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 8, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 8, "absolutepath", "08.WindFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 8, "filename", "08.WindFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 8, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 8, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 8, "id", "u793009788", 7, "obj-64", "playlist~", "preset_content", 8, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 9, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 9, "absolutepath", "09.OutOfDistribution.wav", 7, "obj-64", "playlist~", "preset_clipstate", 9, "filename", "09.OutOfDistribution.wav", 7, "obj-64", "playlist~", "preset_clipstate", 9, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 9, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 9, "id", "u823009793", 7, "obj-64", "playlist~", "preset_content", 9, "loop", 1, 4, "obj-64", "playlist~", "preset_execute" ]
+						}
+, 						{
+							"number" : 16,
+							"data" : [ 6, "obj-8", "gain~", "list", 121, 10.0, 6, "obj-17", "gain~", "list", 133, 10.0, 6, "obj-16", "number~", "list", 0.0, 0.0, 5, "obj-34", "number", "float", 0.991999983787537, 5, "obj-38", "number", "float", 0.100000001490116, 5, "obj-43", "number", "float", 0.5, 5, "obj-48", "number", "float", 0.090000003576279, 5, "obj-65", "number", "float", -0.11599999666214, 5, "obj-15", "toggle", "int", 1, 5, "obj-31", "tab", "int", 9, 5, "obj-9", "number", "float", 1.0, 5, "obj-23", "number", "float", 1.0, 6, "obj-55", "gain~", "list", 145, 10.0, 5, "obj-64", "playlist~", "preset_count", 9, 7, "obj-64", "playlist~", "preset_clipstate", 1, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 1, "absolutepath", "01.ClapSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 1, "filename", "01.ClapSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 1, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 1, "selection", 0.41267787839586, 0.646830530401035, 7, "obj-64", "playlist~", "preset_clipstate", 1, "id", "u548009753", 7, "obj-64", "playlist~", "preset_content", 1, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 2, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 2, "absolutepath", "02.ClapFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 2, "filename", "02.ClapFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 2, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 2, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 2, "id", "u419009758", 7, "obj-64", "playlist~", "preset_content", 2, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 3, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 3, "absolutepath", "03.BugsSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 3, "filename", "03.BugsSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 3, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 3, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 3, "id", "u183009763", 7, "obj-64", "playlist~", "preset_content", 3, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 4, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 4, "absolutepath", "04.BugsFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 4, "filename", "04.BugsFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 4, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 4, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 4, "id", "u699009768", 7, "obj-64", "playlist~", "preset_content", 4, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 5, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 5, "absolutepath", "05.PistonsSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 5, "filename", "05.PistonsSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 5, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 5, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 5, "id", "u651009773", 7, "obj-64", "playlist~", "preset_content", 5, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 6, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 6, "absolutepath", "06.PistonsFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 6, "filename", "06.PistonsFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 6, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 6, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 6, "id", "u203009778", 7, "obj-64", "playlist~", "preset_content", 6, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 7, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 7, "absolutepath", "07.WindSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 7, "filename", "07.WindSlow.wav", 7, "obj-64", "playlist~", "preset_clipstate", 7, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 7, "selection", 0.357050452781371, 0.761966364812419, 7, "obj-64", "playlist~", "preset_clipstate", 7, "id", "u860009783", 7, "obj-64", "playlist~", "preset_content", 7, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 8, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 8, "absolutepath", "08.WindFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 8, "filename", "08.WindFast.wav", 7, "obj-64", "playlist~", "preset_clipstate", 8, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 8, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 8, "id", "u793009788", 7, "obj-64", "playlist~", "preset_content", 8, "loop", 1, 7, "obj-64", "playlist~", "preset_clipstate", 9, "filekind", "audiofile", 7, "obj-64", "playlist~", "preset_clipstate", 9, "absolutepath", "09.OutOfDistribution.wav", 7, "obj-64", "playlist~", "preset_clipstate", 9, "filename", "09.OutOfDistribution.wav", 7, "obj-64", "playlist~", "preset_clipstate", 9, "loop", 1, 8, "obj-64", "playlist~", "preset_clipstate", 9, "selection", 0.0, 1.0, 7, "obj-64", "playlist~", "preset_clipstate", 9, "id", "u823009793", 7, "obj-64", "playlist~", "preset_content", 9, "loop", 1, 4, "obj-64", "playlist~", "preset_execute" ]
 						}
 , 						{
 							"number" : 17,
@@ -1447,69 +1457,60 @@
 		"dependency_cache" : [ 			{
 				"name" : "01.ClapSlow.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "02.ClapFast.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "03.BugsSlow.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "04.BugsFast.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "05.PistonsSlow.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "06.PistonsFast.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "07.WindSlow.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "08.WindFast.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "09.OutOfDistribution.wav",
 				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7/resources",
-				"patcherrelativepath" : "./resources",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "load_playlist.maxpat",
-				"bootpath" : "C:/Lonce/MaxMSP/Max9/RaveSyn7",
+				"bootpath" : "D:/deletemefiles/ravetest/Syn7_RAVE",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
